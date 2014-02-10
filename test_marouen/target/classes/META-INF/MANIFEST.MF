@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Private-Package: foo
+Built-By: alibenmessaoud
+Tool: Bnd-0.0.238
+Bundle-Name: test_marouen
+Created-By: Apache Maven Bundle Plugin
+Bundle-Version: 0.0.1.SNAPSHOT
+Build-Jdk: 1.7.0_25
+Bnd-LastModified: 1378337784002
+Bundle-ManifestVersion: 2
+Bundle-Activator: foo.Activator
+Import-Package: jade.core,jade.core.behaviours,org.osgi.framework;vers
+ ion="1.7"
+Bundle-SymbolicName: test.test_marouen
+
